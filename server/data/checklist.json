@@ -1,0 +1,458 @@
+[
+    {
+        "reference": "t-12",
+        "dueDate": "2021-10-09",
+        "isLaunch": false,
+        "isWorkingDay": false,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-11",
+        "dueDate": "2021-10-10",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-10",
+        "dueDate": "2021-10-11",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-09",
+        "dueDate": "2021-10-12",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-08",
+        "dueDate": "2021-10-13",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-07",
+        "dueDate": "2021-10-14",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-06",
+        "dueDate": "2021-10-15",
+        "isLaunch": false,
+        "isWorkingDay": false,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-05",
+        "dueDate": "2021-10-16",
+        "isLaunch": false,
+        "isWorkingDay": false,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-04",
+        "dueDate": "2021-10-17",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-03",
+        "dueDate": "2021-10-18",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-02",
+        "dueDate": "2021-10-19",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-01",
+        "dueDate": "2021-10-20",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-00",
+        "dueDate": "2021-10-21",
+        "isLaunch": true,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-18",
+        "dueDate": "2021-10-03",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-17",
+        "dueDate": "2021-10-04",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-16",
+        "dueDate": "2021-10-05",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-15",
+        "dueDate": "2021-10-06",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-14",
+        "dueDate": "2021-10-07",
+        "isLaunch": false,
+        "isWorkingDay": true,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    },
+    {
+        "reference": "t-13",
+        "dueDate": "2021-10-08",
+        "isLaunch": false,
+        "isWorkingDay": false,
+        "tasks": [
+            {
+                "title": "Unit Tests",
+                "status": true
+            },
+            {
+                "title": "Branding",
+                "status": false
+            },
+            {
+                "title": "Integrations tests",
+                "status": false
+            },
+            {
+                "title": "QA tests",
+                "status": false
+            }
+        ]
+    }
+]

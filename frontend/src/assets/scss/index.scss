@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "tailwindcss/screens";
+
+@media only screen and (max-device-width: 480px) {
+    .container {
+        padding: 16px;
+        margin-top: 15px;
+    }
+}
